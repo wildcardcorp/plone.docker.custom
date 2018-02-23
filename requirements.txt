@@ -1,0 +1,5 @@
+# zc.buildout 2.11.0 requires setuptools >= 8.0, so grab a recent one
+setuptools>=8.0.0
+
+# zc.buildout is the tool used to perform an actual build
+zc.buildout==2.11.0
