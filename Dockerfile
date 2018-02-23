@@ -1,3 +1,7 @@
+# NOTE: this Dockerfile is quite inefficient in it's construction and layout,
+#   this is intentional in order to provide clearer comments for the purpose
+#   of education.
+
 # be base the image off of the official python 2.7 image -- Plone is working
 # towards full 3.x compatibility, is not quite there yet (at the time of this
 # writing)
